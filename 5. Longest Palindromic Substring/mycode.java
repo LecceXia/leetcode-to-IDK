@@ -1,3 +1,5 @@
+//注意考虑长度为0，1，2，以及运行时间
+
 class Solution {
     public String longestPalindrome(String s) {
         String max="";
