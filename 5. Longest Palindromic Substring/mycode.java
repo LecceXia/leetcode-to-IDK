@@ -1,4 +1,4 @@
-//注意考虑长度为0，1，2，以及运行时间
+//注意考虑长度为0，1，2，以及运行时间（特么的说我居然超时 wnm
 
 class Solution {
     public String longestPalindrome(String s) {
